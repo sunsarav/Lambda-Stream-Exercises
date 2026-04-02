@@ -67,4 +67,6 @@ public class Main {
             action.run(person);
         }
     }
+
+
 }
